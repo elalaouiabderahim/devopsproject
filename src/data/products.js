@@ -65,12 +65,6 @@ const products = [
     stock: 4,
     description: "Un plateau pour lequel mourir, quel est beauuu et quel est eleganttt je le conseille ;) ."
   }
-    id: 8,
-    category: "Maroquinerie",
-    price: 350,
-    stock: 6,
-    description: "Pouf en cur de Marrakech",
-  },
 ];
 
 module.exports = products;
