@@ -50,11 +50,19 @@ const products = [
     description: "Savon noir traditionnel à l'huile d'olive et à l'eucalyptus."
   },
   {
-    id:8,
+    id:7,
     category:"Maroquinerie",
     price:350,
     stock:6,
     description:"Pouf en cur de Marrakech"
+  },
+  {
+    id: 8,
+    name: "Plateau en zellige de Fès",
+    category: "Poterie",
+    price: 280,
+    stock: 4,
+    description: "Un plateau pour lequel mourir, quel est beauuu et quel est eleganttt je le conseille ;) ."
   }
 ];
 
