@@ -48,13 +48,6 @@ const products = [
     price: 45,
     stock: 50,
     description: "Savon noir traditionnel à l'huile d'olive et à l'eucalyptus."
-  },
-  {
-    id:8,
-    category:"Maroquinerie",
-    price:350,
-    stock:6,
-    description:"Pouf en cur de Marrakech"
   }
 ];
 
